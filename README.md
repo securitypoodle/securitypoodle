@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! 👋
+
+I am a cybersecurity professional with over a decade of experience in IT, Networking, and Information Security. This portfolio is dedicated to sharing my notes I have accumulated throughout my journey through cybersecurity and is very much a work in progress. Hopefully you find something you like here!
+
+🐩
 
 <!--
 **securitypoodle/securitypoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
