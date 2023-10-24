@@ -1,20 +1,21 @@
-### Hello there! 👋
+## Hello there! 👋
 
-I am a cybersecurity professional with over a decade of experience in IT, Networking, and Information Security. This portfolio is dedicated to sharing my notes I have accumulated throughout my journey through cybersecurity and is very much a work in progress. Hopefully you find something you like here!
+I am a cybersecurity professional with over a decade of experience in IT, Networking, and Information Security. 
+This portfolio is dedicated to sharing my notes I have accumulated throughout my journey through cybersecurity and is very much a work in progress. Hopefully you find something you like here!
 
 🐩
 
-<!--
-**securitypoodle/securitypoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Career progression:
+- Helpdesk Technician
+- Security Analyst
+- Systems Administrator
+- Security Operations (SOC) Engineer
+- Detection Engineer
 
-Here are some ideas to get you started:
+### Currently Studying: 
+📖 [Blue Team Level 2](https://www.securityblue.team/btl2)
+🧑‍💻 [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Completed:
+📘[Blue Team Level 1](https://www.securityblue.team/why-btl1)
+📘[Comptia CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
