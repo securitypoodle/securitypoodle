@@ -1,4 +1,6 @@
+![HelloThereHiThereGIF](https://github.com/securitypoodle/securitypoodle/assets/123969558/9b69141f-2291-4b05-acbd-2789a0e710e7)
 ## Hello there! 👋
+
 
 I am a cybersecurity professional with over a decade of experience in IT, Networking, and Information Security. 
 This portfolio is dedicated to sharing my notes I have accumulated throughout my journey through cybersecurity and is very much a work in progress. Hopefully you find something you like here!
