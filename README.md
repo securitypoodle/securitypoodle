@@ -12,12 +12,12 @@ This portfolio is dedicated to sharing my notes I have accumulated throughout my
 - Security Analyst
 - Systems Administrator
 - Security Operations (SOC) Engineer
-- Detection Engineer
+- Detection Engineer \[<- Currently here\]
 
 ### Currently Studying: 
-📖 [Blue Team Level 2](https://www.securityblue.team/btl2)
 🧑‍💻 [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers)
 
 ### Completed:
 📘[Blue Team Level 1](https://www.securityblue.team/why-btl1)
+📘[Blue Team Level 2](https://www.securityblue.team/btl2)
 📘[Comptia CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
