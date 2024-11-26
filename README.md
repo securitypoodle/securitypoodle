@@ -15,7 +15,7 @@ This portfolio is dedicated to sharing my notes I have accumulated throughout my
 - Detection Engineer \[<- Currently here\]
 
 ### Currently Studying: 
-
+📖[Taggart Institute - Python for Defenders pt. 2](https://taggartinstitute.org/p/python-for-defenders-pt2)
 
 ### Completed:
 📘[Security Blue Team - Blue Team Level 1](https://www.securityblue.team/why-btl1)
