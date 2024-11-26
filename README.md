@@ -18,10 +18,12 @@ This portfolio is dedicated to sharing my notes I have accumulated throughout my
 
 
 ### Completed:
-📘[Blue Team Level 1](https://www.securityblue.team/why-btl1)
+📘[Security Blue Team - Blue Team Level 1](https://www.securityblue.team/why-btl1)
 
-📘[Blue Team Level 2](https://www.securityblue.team/btl2)
+📘[Security Blue Team - Blue Team Level 2](https://www.securityblue.team/btl2)
 
-📘[Comptia CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+📘[Comptia - CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 
-📘[Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers)
+📘[TCM Security - Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers)
+
+📘[Taggart Institute - Python for Defenders pt. 1](https://taggartinstitute.org/p/python-for-defenders-pt1)
