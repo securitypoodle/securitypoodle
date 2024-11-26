@@ -9,9 +9,9 @@ This portfolio is dedicated to sharing my notes I have accumulated throughout my
 
 ### Career progression:
 - Helpdesk Technician
-- Security Analyst
-- Systems Administrator
-- Security Operations (SOC) Engineer
+- Security Analyst -> Sr Security Analyst
+- Systems Administrator -> Sr Systems Administrator
+- Security Operations (SOC) Engineer -> Sr SOC Engineer
 - Detection Engineer \[<- Currently here\]
 
 ### Currently Studying: 
