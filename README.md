@@ -15,8 +15,6 @@ This portfolio is dedicated to sharing my notes I have accumulated throughout my
 - Detection Engineer \[<- Currently here\]
 
 ### Currently Studying: 
-📖[Taggart Institute - Python for Defenders pt. 2](https://taggartinstitute.org/p/python-for-defenders-pt2)
-
 📖[Security Blue Team - Certified Junior Detection Engineer](https://www.securityblue.team/certifications/certified-junior-detection-engineer)
 
 
@@ -30,3 +28,5 @@ This portfolio is dedicated to sharing my notes I have accumulated throughout my
 📘[TCM Security - Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers)
 
 📘[Taggart Institute - Python for Defenders pt. 1](https://taggartinstitute.org/p/python-for-defenders-pt1)
+
+📘[Taggart Institute - Python for Defenders pt. 2](https://taggartinstitute.org/p/python-for-defenders-pt2)
