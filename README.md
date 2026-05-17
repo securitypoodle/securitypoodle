@@ -3,7 +3,7 @@
 
 ---
 A note:
-I have officially moved to [Codeberg](https://codeberg.org/securitypoodle). Recently, I have started to desire more authentic web content, and as such am starting to shape my digital experiences around a more privacy-focused, human-generated lense. This led me to discover Codeberg, a non-profit, community-driven platform that falls more in line with this vision. I am slowly starting to transition my personal technology usage away from platforms and services driven by shareholders, enterprise or venture capital interests (as best I can) in an effort to regain control of my own data privacy. This will be a never-ending journey, and I intend to try and document some of my efforts over on Codeberg (or wherever the next platform leads me). Hope you'll join me. 
+I have officially moved to [Codeberg](https://codeberg.org/securitypoodle). Recently, I have started to desire more authentic web content, and as such am starting to shape my digital experiences around a more privacy-focused, human-generated lens. This led me to discover Codeberg, a non-profit, community-driven platform that falls more in line with this vision. I am slowly starting to transition my personal technology usage away from platforms and services driven by shareholders, enterprise or venture capital interests (as best I can) in an effort to regain control of my own data privacy. This will be a never-ending journey, and I intend to try and document some of my efforts over on Codeberg (or wherever the next platform leads me). Hope you'll join me. 
 ---
 
 I am a cybersecurity professional with over a decade of experience in IT, Networking, and Information Security. 
